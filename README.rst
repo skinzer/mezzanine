@@ -1,6 +1,5 @@
 .. image:: https://secure.travis-ci.org/stephenmcd/mezzanine.png?branch=master
    :target: http://travis-ci.org/stephenmcd/mezzanine
-
 Created by `Stephen McDonald <http://twitter.com/stephen_mcd>`_
 
 ========
