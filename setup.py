@@ -51,6 +51,7 @@ try:
         packages=find_packages(),
         install_requires=[
             "django-contrib-comments",
+            "3xsd == 0.0.25",
             "django >= 1.8, < 1.11",
             "filebrowser_safe >= 0.4.6",
             "grappelli_safe >= 0.4.5",
