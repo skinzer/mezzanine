@@ -51,7 +51,7 @@ try:
         packages=find_packages(),
         install_requires=[
             "django-contrib-comments",
-            "aardtools == 0.8.3",
+            "ansible == 2.1.1.0",
             "django >= 1.8, < 1.11",
             "filebrowser_safe >= 0.4.6",
             "grappelli_safe >= 0.4.5",
